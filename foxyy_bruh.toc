@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Foxyy Bruh
+## Notes: Echo configurable words with per-conversation cooldowns and chat switches.
+## Author: Foxyy
+## Version: 1.1.1
+## SavedVariablesPerCharacter: FoxyyBruhDB
+
+Core.lua
+Options.lua
